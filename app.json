@@ -1,5 +1,6 @@
 {
   "name": "Jacket",
+  "logo": "https://nzbusenet.com/wp-content/uploads/2017/04/jackett-logo.png",
   "description": "Jackett on heroku with saved config",
   "repository": "https://github.com/amjiddader/Jackett",
   "keywords": ["docker", "jackett", "rss", "heroku", "cloudflare"],
