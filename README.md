@@ -15,7 +15,8 @@ Deploy using CLI
 - Clone the repo
 - Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 ```
-cd Jackett-heroku
+git clone https://github.com/amjiddader/Jackett
+cd Jackett
 heroku login
 heroku apps:create APP
 heroku stack:set container
