@@ -1,19 +1,19 @@
 {
-  "name": "VK heroku",
-  "description": "A demo of using VK AI ",
-  "repository": "https://github.com/amjiddader/vk-hero",
-  "keywords": ["docker", "vision", "AI", "heroku", "vk"],
+  "name": "Jacket",
+  "description": "Jackett on heroku with saved config",
+  "repository": "https://github.com/amjiddader/Jackett",
+  "keywords": ["docker", "jackett", "rss", "heroku", "cloudflare"],
   "stack": "container",
   "success_url": "/",
   "env": {
     "ENABLE_AUTH": {
-      "description": "This value must be heroku when running in Heroku",
-      "value": "heroku",
+      "description": "Jackett Admin Password not required",
+      "value": "admin",
       "required": false
     },
-    "VK_TOKEN": {
-      "description": "Token to auth vk.com",
-      "value": "xxxxx",
+    "FLARE": {
+      "description": "Cloudflare Verify Url",
+      "value": "added_in_config",
       "required": false
     }
   }
