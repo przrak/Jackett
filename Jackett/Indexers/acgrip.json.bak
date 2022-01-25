@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://acg.rip/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "_kanako_session=Xz5FOVLZjiJhhOTOI%2FEIyP%2BxjZZwZhseybJy8N9XCIi0wO%2BqhX7CYIpqtEOMEY8MG8Rq3LEIAu6r5GcGSsP9UD3DNHfxe0FEwhmQdcqgmqDe8SThfBPzKCKlC5fWTSntDGuZLOEYYaKR1XWn9DENUyx8y385TJhUWizw1JYtwCuaiDNyB6dk0wBGY1MWp%2FuMK0fataPeJYy%2BikmQvGs01RFNYGrRRcYYb7RLLdm0scEIZo1PK%2Fk2yrCZVFxynB1lZVApFosT5J%2FFICMBJw8opYWpNXDi41w%3D--YS0fwwXtCMbdZbNv--W5Rh6gnctN%2FnaLv6NIFyyg%3D%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]
