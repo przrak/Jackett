@@ -4,4 +4,26 @@
   "repository": "https://github.com/amjiddader/Jackett",
   "keywords": ["docker", "jackett", "rss", "heroku", "cloudflare"],
   "stack": "container",
+  "env": {
+    "ADMIN_PASS": {
+      "description": "jackett Admin Password ( Not implimented)",
+      "value": "admin",
+      "required": false
+    },
+    "FLARE_SOLVE": {
+      "description": "URL Of Cloudflare Solver",
+      "value": "already added in config file",
+      "required": false
+    }
+   "OMDB_KEY": {
+      "description": "OMDB Api Key (Not Required)",
+      "value": "added in config file",
+      "required": false
+    },
+  "OMDB_URL": {
+      "description": "OMDB API URL (Not required)",
+      "value": "added in config file",
+      "required": false
+    },
+  }
 }
