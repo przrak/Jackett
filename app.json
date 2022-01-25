@@ -1,12 +1,11 @@
 {
   "name": "Jackett On Heroku",
-  "description": "Use Jackett on heroku - Saved Config",
+  "description": "Use Jackett on heroku with Saved Config",
   "repository": "https://github.com/amjiddader/Jackett",
-  "keywords": ["docker", "jackett", "rss", "heroku", "cloudflare"],
   "stack": "container",
   "env": {
     "ADMIN_PASS": {
-      "description": "jackett Admin Password ( Not implimented)",
+      "description": "jackett Admin Password Not Required)",
       "value": "admin",
       "required": false
     },
@@ -16,12 +15,12 @@
       "required": false
     }
    "OMDB_KEY": {
-      "description": "OMDB Api Key (Not Required)",
+      "description": "OMDB Api Key Not Required",
       "value": "added in config file",
       "required": false
     },
   "OMDB_URL": {
-      "description": "OMDB API URL (Not required)",
+      "description": "OMDB API URL Not required",
       "value": "added in config file",
       "required": false
     },
