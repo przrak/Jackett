@@ -11,7 +11,7 @@
   "CacheEnabled": true,
   "CacheTtl": 6100,
   "CacheMaxResultsPerIndexer": 1000,
-  "FlareSolverrUrl": "https://safe-tundra-66835.herokuapp.com",
+  "FlareSolverrUrl": "https://safe-tundra-66835.herokuapp.com/",
   "FlareSolverrMaxTimeout": 65000,
   "OmdbApiKey": "eeaca575-a71d-4cf5-9baa-791e8de68e09",
   "OmdbApiUrl": "http://www.omdbapi.com/?i=tt3896198&apikey=4cdcd75a",
