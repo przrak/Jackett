@@ -3,7 +3,7 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://1337x.unblockit.how/"
+    "value": "https://1337x.to/"
   },
   {
     "id": "cookieheader",
@@ -15,7 +15,7 @@
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
-    "value": "Exception (1337x): FlareSolverr was unable to process the request, please check FlareSolverr logs. Message: Cloudflare Error: Cloudflare has blocked this request. Probably your IP is banned for this site, check in your web browser.: FlareSolverr was unable to process the request, please check FlareSolverr logs. Message: Cloudflare Error: Cloudflare has blocked this request. Probably your IP is banned for this site, check in your web browser."
+    "value": "Exception (1337x): Your server should not block this."
   },
   {
     "id": "downloadlink",
