@@ -1,0 +1,8 @@
+{
+  "name": "Jackett On Heroku",
+  "description": "Use Jackett on heroku - Saved Config",
+  "repository": "https://github.com/amjiddader/Jackett",
+  "keywords": ["docker", "jackett", "rss", "heroku", "cloudflare"],
+  "stack": "container",
+  "success_url": "/",
+}
