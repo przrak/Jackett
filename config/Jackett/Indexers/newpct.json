@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://atomixhq.top/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": ""
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "includeoriginalversionsinsearchresults",
+    "type": "inputbool",
+    "name": "Include original versions in search results",
+    "value": false
+  },
+  {
+    "id": "onlyfullmatchmovies",
+    "type": "inputbool",
+    "name": "Only full match movies",
+    "value": true
+  },
+  {
+    "id": "removeaccentsinmoviesearches",
+    "type": "inputbool",
+    "name": "Remove accents in movie searches",
+    "value": true
+  },
+  {
+    "id": "removeyearfrommovieresults(enableforradarr)",
+    "type": "inputbool",
+    "name": "Remove year from movie results (enable for Radarr)",
+    "value": false
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]
