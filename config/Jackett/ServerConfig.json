@@ -2,7 +2,7 @@
   "Port": 9117,
   "AllowExternal": true,
   "APIKey": "78nc9wvj8vyhyitoiossnmx3le4p26o4",
-  "AdminPassword": admin,
+  "AdminPassword": "admin",
   "InstanceId": "pwjkiijocn0026ghiokjpcpqetw2rx6rg4c3tz108dd9e5vcbotq03rbj3myxygh",
   "BlackholeDir": null,
   "UpdateDisabled": true,
