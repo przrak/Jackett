@@ -1,2 +1,20 @@
 {
+  "name": "VK heroku",
+  "description": "A demo of using VK AI ",
+  "repository": "https://github.com/amjiddader/vk-hero",
+  "keywords": ["docker", "vision", "AI", "heroku", "vk"],
+  "stack": "container",
+  "success_url": "/",
+  "env": {
+    "ENABLE_AUTH": {
+      "description": "This value must be heroku when running in Heroku",
+      "value": "heroku",
+      "required": false
+    },
+    "VK_TOKEN": {
+      "description": "Token to auth vk.com",
+      "value": "xxxxx",
+      "required": false
+    }
+  }
 }
