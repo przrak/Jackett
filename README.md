@@ -22,3 +22,6 @@ heroku apps:create APP
 heroku stack:set container
 git push heroku main --force
 ```
+## Deploy on localhost
+
+docker run -d --name=jackett -e PUID=1000 -e PGID=1000-e -p 9117:9117 -v /config:/config -v /config:/downloads --restart unless-stopped lscr.io/linuxserver/jackett
