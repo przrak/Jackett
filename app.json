@@ -1,28 +1,2 @@
 {
-  "name": "Jackett On Heroku",
-  "description": "Use Jackett on heroku with Saved Config",
-  "repository": "https://github.com/amjiddader/Jackett",
-  "stack": "container",
-  "env": {
-    "ADMIN_PASS": {
-      "description": "jackett Admin Password Not Required)",
-      "value": "admin",
-      "required": false
-    },
-    "FLARE_SOLVE": {
-      "description": "URL Of Cloudflare Solver",
-      "value": "already added in config file",
-      "required": false
-    }
-   "OMDB_KEY": {
-      "description": "OMDB Api Key Not Required",
-      "value": "added in config file",
-      "required": false
-    },
-  "OMDB_URL": {
-      "description": "OMDB API URL Not required",
-      "value": "added in config file",
-      "required": false
-    },
-  }
 }
