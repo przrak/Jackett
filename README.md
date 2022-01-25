@@ -7,11 +7,10 @@ Admin password is admin -- Cloudflare FlareSolver is confgured it should work ou
 
 
 ## Deoply on Heroku 
---- One Click Deply 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amjiddader/Jackett/tree/master)
 
 ------------
---- Deploy using CLI
+Deploy using CLI
 
 - Clone the repo
 - Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
