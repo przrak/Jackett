@@ -9,7 +9,7 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": null
+    "value": "PHPSESSID=rftn2js2f6s51c7r4sjk89kv37; dle_user_id=deleted; dle_password=deleted; dle_hash=deleted"
   },
   {
     "id": "lasterror",

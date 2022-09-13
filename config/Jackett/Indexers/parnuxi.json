@@ -9,7 +9,7 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": null
+    "value": "phpbb3_68fln_u=1; phpbb3_68fln_sid=c5620f2f7f28eb585b5fbf3a6da8e471"
   },
   {
     "id": "lasterror",

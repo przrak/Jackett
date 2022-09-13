@@ -9,13 +9,13 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": null
+    "value": ""
   },
   {
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
-    "value": null
+    "value": "Exception (sosulki): Got redirected to another domain. Try changing the indexer URL to http://sosulki.com/.: Parse error"
   },
   {
     "id": "tags",

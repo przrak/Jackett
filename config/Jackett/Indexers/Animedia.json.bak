@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://tt.animedia.tv/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "anime_last_visit=1347722038; anime_last_activity=1663082074; anime_tracker=%7B%220%22%3A%22anime%2Fpitomec%22%2C%221%22%3A%22anime%2Fi-vse-zhe-greshnik-tancuet-s-drakonom%22%2C%222%22%3A%22anime%2Fvlyublyonnye-uchyonye-i-nauchnoe-dokazatelstvo-lyubvi%22%2C%223%22%3A%22anime%2Fboruto-novoe-pokolenie%22%2C%224%22%3A%22anime%2Forient%22%2C%22token%22%3A%226daef534743adfe85524c3a3987d09893860d7b31553fd4ead346513720730674ffb1ef41e1cebf8eec53bd2e5c07f8b%22%7D; anime_csrf_token=7d9ce629e5e48077152a941653ebdc68011f2586; anime_stashid=%7B%22id%22%3A%2299ef1bae769a6f6f69422ca0c701e6fefaed31e1%22%2C%22dt%22%3A1663082038%7D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

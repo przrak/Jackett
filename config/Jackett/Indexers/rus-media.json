@@ -9,13 +9,25 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": null
+    "value": "phpbb3_4nng4_u=1; phpbb3_4nng4_sid=b4c8f8bca015e8fdb257fc195d01000b"
   },
   {
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
     "value": null
+  },
+  {
+    "id": "striprussianletters",
+    "type": "inputbool",
+    "name": "Strip Russian Letters",
+    "value": false
+  },
+  {
+    "id": "addrussiantoendofalltitlestoimprovelanguagedetectionbysonarrandradarr.willcauseenglish-onlyresultstobemisidentified.",
+    "type": "inputbool",
+    "name": "Add RUSSIAN to end of all titles to improve language detection by Sonarr and Radarr. Will cause English-only results to be misidentified.",
+    "value": false
   },
   {
     "id": "sortrequestedfromsite",

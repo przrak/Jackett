@@ -9,13 +9,13 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": null
+    "value": "phpbb3_78wwi_u=1; phpbb3_78wwi_sid=abc80d4e0c9a26b8c33383f14a62009c"
   },
   {
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
-    "value": null
+    "value": "Test search in torrent-pirat => Found no results while trying to browse this tracker"
   },
   {
     "id": "sortrequestedfromsite",
